@@ -24,7 +24,7 @@ Files that are included in repository:
 - scripts/ and util/: auxiliary files
 
 - Guide to repeat this project: colorization.ipynb
-- test.py and train.py: for customized use 
+- test.py and train.py: for customized useage 
 
 ## Results
 
