@@ -5,7 +5,7 @@ Di Gu, dgu@ucsd.edu
 
 ## Abstract Proposal
 
-There are countless black&white manga available. However, few of them are colorized as it spends much additional time for comic book creators to paint from the black&white version. What if we have an auto painter that convert b&w manga into colorized ones? In project 4, a manga colorization solution was developed based on pix2pix model. It was able to colorize b&w manga pages based on some colorized samples. However the synthetic color was sometimes unnature. For final project, we will try to refine the results and make them more natural. Also, we will try some style transfer during colorization. Colored image genearted from model will be presented in the final presentation.
+There are much more monocolor mangas available than colorized version, as mass production is required to fill all the color. Most of them are repetitive works since these mangas follow the same pattern. How to automatically paint the sketch into the color fit their style is a useful application to reduce their workload and can help ordinary people to generate the artist style they like on their own sketch.In this project, we are interested in solving this by employing deep neural networks and applying other existing techniques. 
 
 ## Project Report
 
