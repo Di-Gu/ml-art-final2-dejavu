@@ -28,7 +28,7 @@ Files that are included in repository:
 
 ## Results
 
-Several result pages is included in result/
+See details in results/
 
 ## Technical Notes
 
