@@ -1,5 +1,7 @@
 Results:
 
+Enter each folder to see results.
+
 r2r -- Train Rick&Morty in grayscale and test
 
 s2s -- Train Simpsons in grayscale and test
